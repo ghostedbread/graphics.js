@@ -3,7 +3,7 @@
 /* graphics for node */
 // and yes I rewrote the entire thing //
 /**
- * @lisence MIT
+ * @license MIT
  * @author ghostedbread
  * @version 1.1
  * @description Graphics For Node
