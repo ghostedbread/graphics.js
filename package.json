@@ -1,0 +1,23 @@
+{
+  "name": "@ghostedbread/graphics-js",
+  "version": "1.1.0",
+  "description": "Graphics For Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghostedbread/graphics.js.git"
+  },
+  "keywords": [
+    "graphics",
+    "node"
+  ],
+  "author": "ghostedbread",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ghostedbread/graphics.js/issues"
+  },
+  "homepage": "https://github.com/ghostedbread/graphics.js#readme"
+}
